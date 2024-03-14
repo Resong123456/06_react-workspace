@@ -1,0 +1,9 @@
+.logoutDiv {
+  background-color: rgb(168, 24, 24);
+  border-bottom: 5px solid rgb(4, 92, 4);
+}
+
+.logout {
+  background-color: red;
+  border-bottom: 5px solid green;
+}

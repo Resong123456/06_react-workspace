@@ -1,0 +1,16 @@
+button {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid skyblue;
+  width: auto;
+  height: 30px;
+  transition: transform 0.3s ease-in-out;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  background-color: skyblue;
+}
